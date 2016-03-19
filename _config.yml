@@ -1,0 +1,28 @@
+name: Tru Self Defense
+favicon: null
+layout_spectrum: 0.417747407220304
+typography_spectrum: 0.964323389576748
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6186805027537048
+  lightness: 0.8421653953846544
+  saturation: 0.37064829049631953
+  rhythmicContrast: 0.7985325439367443
+purpose: []
