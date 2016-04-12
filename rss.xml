@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Tru Self Defense]]></title>
         <description><![CDATA[Tru Self Defense]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tru-self-defense/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 02:19:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 02:23:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tru-self-defense/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Time to Learn SELF DEFENSE is NOW]]></title>
             <description><![CDATA[<article><h1>The Time to Learn SELF DEFENSE is NOW</h1><p>martial arts icon</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e940fd1075b8a90eb61dbbc832a57ed23f2349bc.png"></article>]]></description>
-            <link>undefinedthe-time-to-learn-self-defense-is-now/index.html</link>
+            <link>https://thegrid.ai/tru-self-defense/the-time-to-learn-self-defense-is-now/index.html</link>
             <guid isPermaLink="false">350bed17-37fe-4f8f-b10b-899c4e5d488b</guid>
-            <pubDate>Tue, 12 Apr 2016 02:19:17 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2016 02:23:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
