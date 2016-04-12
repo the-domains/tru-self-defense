@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'TRU Self Defense Classes Enrolling Now in Tacoma, WA'
-datePublished: '2016-04-12T02:19:17.259Z'
-dateModified: '2016-04-12T02:18:15.605Z'
+datePublished: '2016-04-12T02:23:18.820Z'
+dateModified: '2016-04-12T02:22:40.512Z'
 title: The Time to Learn SELF DEFENSE is NOW
 author: []
+sourcePath: _posts/2016-04-12-the-time-to-learn-self-defense-is-now.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-12-the-time-to-learn-self-defense-is-now.md
-published: true
 url: the-time-to-learn-self-defense-is-now/index.html
 _type: Article
 
